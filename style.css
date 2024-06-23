@@ -8,6 +8,64 @@
     font-size: 44px;
 }
 
-.veryalkaline{
+.div-one{
     background-color: rgb(0,137,220);
+    color: rgb(255, 255, 255);
+}
+
+.div-two{
+    background-color: rgb(0,149,226);
+    color: rgb(255, 255, 255);
+}
+.div-three{
+    background-color: rgb(0,149,226);
+    color: rgb(255, 255, 255);
+}
+.div-four{
+    background-color: rgb(48,171,231);
+    color: rgb(255, 255, 255);
+}
+.div-five{
+    background-color: rgb(83,182,241);
+    color: rgb(255, 255, 255);
+}
+.div-six{
+    background-color: rgb(83,182,241);
+    color: rgb(255, 255, 255);
+}
+.div-seven{
+    background-color: rgb(141,202,241);
+    color: rgb(255, 255, 255);
+}
+.div-eight{
+    background-color: rgb(0,186,139);
+    color: rgb(255, 255, 255);
+}
+.div-nine{
+    background-color: rgb(242,176,203);
+    color: rgb(255, 255, 255);
+}
+.div-ten{
+    background-color: rgb(245,160,193);
+    color: rgb(255, 255, 255);
+}
+.div-eleven{
+    background-color: rgb(247,159,193);
+    color: rgb(255, 255, 255);
+}
+.div-twelve{
+    background-color: rgb(245,140,178);
+    color: rgb(255, 255, 255);
+}
+.div-thirteen{
+    background-color: rgb(243,106,152);
+    color: rgb(255, 255, 255);
+}
+.div-fourteen{
+    background-color: rgb(246,89,140);
+    color: rgb(255, 255, 255);
+}
+.div-fifteen{
+    background-color: rgb(240,61,127);
+    color: rgb(255, 255, 255);
 }
