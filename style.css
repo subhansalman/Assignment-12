@@ -1,11 +1,11 @@
 *{
     background-color: rgb(192,192,192);
-    margin: 20px;
-    padding: 20px;
-}
-.container{
     margin: 0px;
     padding: 0px;
+}
+.container{
+    margin: 20px;
+    padding: 20px;
 }
 .phscale {
     color: rgb(99,99,111);
